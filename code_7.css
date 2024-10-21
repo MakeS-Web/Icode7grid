@@ -1,0 +1,59 @@
+.container{
+    background-color: whitesmoke;
+    display: flex;
+    justify-content: space-around;
+    border-radius: 15px;
+    border: 15px, white, solid;
+    width: 1100px;
+}
+body{
+    display: grid;
+    place-content: center;
+    background-color: azure;
+    min-height: 1000px;
+    background: linear-gradient(blue aqua orange);
+}
+.free{
+    padding-left: -10px;
+}
+.ou{
+    font-size: 60px;
+    font-family: sans-serif;
+}
+h1{
+    font-family: sans-serif;
+}
+p{
+    font-family: sans-serif;
+}
+h{
+    font-family: sans-serif;
+    font-weight: 600;
+}
+.plue{
+    background-color: plum;
+    border: none;
+    border-radius: 5px;
+    width: 150px;
+    height: 50px;
+    color: black;
+    font-weight: 600;
+}
+.aqua{
+    background-color: aqua;
+    border: none;
+    border-radius: 5px;
+    width: 150px;
+    height: 50px;
+    color: black;
+    font-weight: 600;
+}
+.orange{
+    background-color: orange;
+    border: none;
+    border-radius: 5px;
+    width: 150px;
+    height: 50px;
+    color: black;
+    font-weight: 600;
+}
